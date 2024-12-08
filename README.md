@@ -53,136 +53,136 @@
 
 ### Home Screen
 	
-	```
-		=======================================
-			     AUDISYNC HOME
-		=======================================
-		[1] Create a Playlist
-		[2] View Playlists
-		[3] Delete a Playlist
+```
+	=======================================
+		     AUDISYNC HOME
+	=======================================
+	[1] Create a Playlist
+	[2] View Playlists
+	[3] Delete a Playlist
 
-		[4] Settings
-		[5] Exit
-		---------------------------------------
-		Enter your choice:
-		
-	```
+	[4] Settings
+	[5] Exit
+	---------------------------------------
+	Enter your choice:
+	
+```
 	
 ### Create Playlist
-	
-	```
-		=======================================
-			  CREATE NEW PLAYLIST
-		=======================================
-		Enter playlist name: __________________
 
-		[0] Cancel
-		---------------------------------------
-		Press [Enter] to save the playlist.
+```
+	=======================================
+		  CREATE NEW PLAYLIST
+	=======================================
+	Enter playlist name: __________________
 
-	```
+	[0] Cancel
+	---------------------------------------
+	Press [Enter] to save the playlist.
+
+```
 	
 ### View Playlist
-	
-	```
-		=======================================
-			     YOUR PLAYLISTS
-		=======================================
-		[1] Favourite
-		[2] KPOP
-		[3] Old Hits
-		[4] LOFI
 
-		[0] Back to Home
-		---------------------------------------
-		Select a playlist to play or manage: 
+```
+	=======================================
+		     YOUR PLAYLISTS
+	=======================================
+	[1] Favourite
+	[2] KPOP
+	[3] Old Hits
+	[4] LOFI
 
-	```
+	[0] Back to Home
+	---------------------------------------
+	Select a playlist to play or manage: 
+
+```
 	
 ### Playlist Details
-	
-	```
-		=======================================
-			    PLAYLIST: FAVOURITE
-		=======================================
-		[1] Play All Songs
-		[2] Add Songs
-		[3] Remove Songs
-		[4] View Songs in Playlist
-		[5] Rename Playlist
 
-		[0] Back to Playlists
-		---------------------------------------
-		Enter your choice: 
-		
-	```
+```
+	=======================================
+		    PLAYLIST: FAVOURITE
+	=======================================
+	[1] Play All Songs
+	[2] Add Songs
+	[3] Remove Songs
+	[4] View Songs in Playlist
+	[5] Rename Playlist
+
+	[0] Back to Playlists
+	---------------------------------------
+	Enter your choice: 
+	
+```
 	
 ### Add song
 	
-	```
-	
-		=======================================
-			     ADD SONGS
-		=======================================
-		Enter the path of the song to add:
-		> _____________________________________
+```
 
-		[1] Add Another Song
-		[0] Back to Playlist
-		---------------------------------------
-		Press [Enter] after entering the song path.
+	=======================================
+		     ADD SONGS
+	=======================================
+	Enter the path of the song to add:
+	> _____________________________________
 
-	```
+	[1] Add Another Song
+	[0] Back to Playlist
+	---------------------------------------
+	Press [Enter] after entering the song path.
+
+```
 	
 ### Settings
 	
-	```
-		=======================================
-			       SETTINGS
-		=======================================
-		[1] Change Default Music Folder
-		[2] Reset Application
-		[3] About
+```
+	=======================================
+		       SETTINGS
+	=======================================
+	[1] Change Default Music Folder
+	[2] Reset Application
+	[3] About
 
-		[0] Back to Home
-		---------------------------------------
-		Enter your choice: 
+	[0] Back to Home
+	---------------------------------------
+	Enter your choice: 
 
-	```
+```
 	
 ### Chnage Default Music Folder
 	
-	```
-		=======================================
-                  CHANGE DEFAULT MUSIC FOLDER
-		=======================================
-		Current folder: C:\Users\YourUser\Music
-		Enter new folder path:
-		> _____________________________________
+```
+	=======================================
+	    CHANGE DEFAULT MUSIC FOLDER
+	=======================================
+	Current folder: C:\Users\YourUser\Music
+	Enter new folder path:
+	> _____________________________________
 
-		[0] Cancel
-		---------------------------------------
-		Press [Enter] to save changes.
+	[0] Cancel
+	---------------------------------------
+	Press [Enter] to save changes.
 
-	```
+```
 	
 ### About
 	
-	```
-		
-		=======================================
-			     ABOUT AUDISYNC
-		=======================================
-		Version: 1.0.0
-		Developer: Mithila Prabashwara
-		Description:
-		A CLI-based music manager with playlists
-		powered by a doubly linked list data structure.
+```
+	
+	=======================================
+		     ABOUT AUDISYNC
+	=======================================
+	Version: 1.0.0
+	Developer: Mithila Prabashwara
+	Description:
+	A CLI-based music manager with playlists
+	powered by a doubly linked list data structure.
 
-		[0] Back to Settings
-		---------------------------------------
-		Press [Enter] to return.
-		
+	[0] Back to Settings
+	---------------------------------------
+	Press [Enter] to return.
+	
 	```
 
 	
